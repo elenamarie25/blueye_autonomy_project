@@ -5,10 +5,9 @@ This open-source library contains 3D-printable mounting solutions for attaching 
 The mounts are designed to fit specific sensors such as:
 - USBL modem
 - DVL (Doppler Velocity Log)
-- GPS module
+- Compute Bottle
 - Forward-looking sonar
 - Inductive charging coil
-- Downward camera and lights
 
 ## 🔧 Customization
 The files are provided in .STL (ready to print) and .STEP (editable) formats so that users can adapt the mounts for their own sensor configurations or ROV modifications.
@@ -22,6 +21,13 @@ The files are provided in .STL (ready to print) and .STEP (editable) formats so 
 ## 📄 License
 These files are shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
 This means you're free to remix, adapt, and build upon this work non-commercially, as long as you credit the original creators and license your new creations under the same terms.
+
+## 🛠 Contributing or Remixing
+
+Please **do not modify the files in `/original_files/`**.  
+If you'd like to make your own version, upload your modified file to the `/community_mods/` folder and include your name or version in the filename.
+
+This keeps the original library intact while allowing remixing and experimentation.
 
 ## ✉️ Contact
 If you use or modify this project, feel free to share your results or improvements.  
