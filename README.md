@@ -10,13 +10,20 @@ The mounts are designed to fit specific sensors such as:
 - Inductive charging coil
 
 ## 🔧 Customization
-The files are provided in .STL (ready to print) and .STEP (editable) formats so that users can adapt the mounts for their own sensor configurations or ROV modifications.
+The files are provided in .STL (ready to print) and .STEP (editable) formats as well as CAD links so that users can adapt the mounts for their own sensor configurations or ROV modifications.
 
 ## 📦 What's included
 - Mounting base designs
 - Modular connector elements
 - Sensor-specific brackets
-- Assembly documentation (if available)
+- Assembly documentation and How-to's
+
+## 🗂 Folder Overview
+
+- `/original_files/` – Official mounting parts made by our team. Please don’t modify these directly.
+- `/community_mods/` – Modified or remixed versions contributed by the community.
+- `/images/` – Previews and renders of the models.
+- `/how-to/` – Guides for printing, designing and assembling.
 
 ## 📄 License
 These files are shared under the **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)** license.  
