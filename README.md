@@ -1,6 +1,6 @@
-# Modular Sensor Mount for Blueye ROV
+# Modular Sensor Mounting System for Blueye ROV
 
-This open-source library contains 3D-printable mounting solutions for attaching various sensors to the Blueye ROV as part of its conversion into an autonomous underwater vehicle (AUV).
+This open-source library contains 3D-printable mounting solutions for attaching various sensors to the Blueye ROV.
 
 The mounts are designed to fit specific sensors such as:
 - USBL modem
